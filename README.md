@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Amirhossein — DevOps Engineer (CI/CD, Kubernetes, Reliability)
 
-<!--
-**amirsh98/amirsh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help teams build stable, secure and automated infrastructures.
+My focus is on **CI/CD, Kubernetes, Docker, Cloud Automation, Linux, and System Reliability**.
 
-Here are some ideas to get you started:
+### 🔧 What I do
+- Design and implement CI/CD pipelines  
+- Build scalable Docker & Kubernetes environments  
+- Infrastructure-as-Code (Terraform, Ansible)  
+- Monitoring, alerting and performance optimization  
+- Security hardening (Linux, containers, pipelines)  
+- DevOps-as-a-Service for startups and SMEs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Current Work ↘
+
+**InfraSafe**  
+A minimal reliability layer for Linux servers:  
+- resource pressure analysis  
+- service integrity checks  
+- configuration safety validation  
+- deploy readiness signals  
+
+---
+
+If you work with complex infrastructure and want reliability, automation or CI/CD support, feel free to reach out.
+
+### 📬 Contact
+- LinkedIn: linkedin.com/in/amirhossein-j-b39b7381  
+- Email: mr.jamshidpour@gmail.com
